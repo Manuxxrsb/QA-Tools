@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Files genereatde by fpdf
+Example.pdf
+
 # C extensions
 *.so
 
@@ -169,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
