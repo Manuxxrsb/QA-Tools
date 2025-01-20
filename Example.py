@@ -44,6 +44,8 @@ time.sleep(5)
 
 driver.quit()
 
+# creacion del pdf
+
 pdf = open("Example.pdf", "w")
 pdf.write("Titulo: " + "Primera_Caja.titulo" + "\n")
 pdf.write("Descripcion: " + "Primera_Caja.descripcion" + "\n")
