@@ -33,7 +33,7 @@ class Caja_Unica:
     def mostrar_informacion(self):
         print("Titulo: ", self.titulo)
         print("Descripcion: ", self.descripcion)
-        print("")
+        print("\n")
 
 Primera_Caja = Caja_Unica()
 
